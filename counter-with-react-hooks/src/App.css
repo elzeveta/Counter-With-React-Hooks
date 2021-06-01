@@ -1,4 +1,12 @@
 .App {
   text-align: center;
+  font-weight: bold;
 }
 
+button {
+  background-color: #e5d5f3;
+  border: none;
+  margin: 6px;
+  padding: 8px;
+  cursor: pointer;
+}
